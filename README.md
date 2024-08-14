@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<!--![badge](https://devpost-public.s3.amazonaws.com/Microsoft%20Developers%20AI%20Learning%20Hackathon/MicrosoftDevsAILearningHackathon_Badge.png)-->
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 <!--
 **Rahman2001/Rahman2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
